@@ -1,0 +1,12 @@
+
+venv/
+__pycache__/
+*.pyc
+admin.json
+.env
+dataset/
+datasets/
+attendance/attendance.csv
+trainer/*.yml
+student.json
+students.json
